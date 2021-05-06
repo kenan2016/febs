@@ -4,6 +4,5 @@
 **/log/
 **/*.iml
 /.idea/
-/febs-gateway/target/
 /FEBS-Cloud-Web/.idea/
 /FEBS-Cloud-Web/node_modules/
