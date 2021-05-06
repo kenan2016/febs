@@ -1,0 +1,32 @@
+2021-05-06 09:51:00,145 INFO DEFAULT_GROUP@@FEBS-Gateway is changed, add it to push queue.
+
+2021-05-06 09:54:55,390 INFO DEFAULT_GROUP@@FEBS-Auth is changed, add it to push queue.
+
+2021-05-06 10:12:19,915 INFO DEFAULT_GROUP@@FEBS-Gateway is changed, add it to push queue.
+
+2021-05-06 10:12:19,916 INFO serviceName: DEFAULT_GROUP@@FEBS-Gateway changed, schedule push for: 192.168.114.1:49696, agent: Nacos-Java-Client:v1.0.0, key: 192.168.114.1,49696,40359879225600
+
+2021-05-06 10:12:19,918 INFO send udp packet: 192.168.114.1,49696,40359879225600
+
+2021-05-06 10:12:19,920 INFO serviceName: DEFAULT_GROUP@@FEBS-Gateway changed, schedule push for: 192.168.114.1:64374, agent: Nacos-Java-Client:v1.0.0, key: 192.168.114.1,64374,40359879225600
+
+2021-05-06 10:12:19,921 INFO send udp packet: 192.168.114.1,64374,40359879225600
+
+2021-05-06 10:12:19,932 INFO received ack: {"type": "push-ack", "lastRefTime":"40359879225600", "data":""} from: 192.168.114.1:, cost: 64374 ms, unacked: 11, total push: 1
+
+2021-05-06 10:12:21,715 INFO DEFAULT_GROUP@@FEBS-Auth is changed, add it to push queue.
+
+2021-05-06 10:12:21,715 INFO serviceName: DEFAULT_GROUP@@FEBS-Auth changed, schedule push for: 192.168.114.1:64374, agent: Nacos-Java-Client:v1.0.0, key: 192.168.114.1,64374,40361679213100
+
+2021-05-06 10:12:21,715 INFO send udp packet: 192.168.114.1,64374,40361679213100
+
+2021-05-06 10:12:21,718 INFO received ack: {"type": "push-ack", "lastRefTime":"40361679213100", "data":""} from: 192.168.114.1:, cost: 64374 ms, unacked: 3, total push: 1
+
+2021-05-06 10:12:29,921 INFO retry to push data, key: 192.168.114.1,49696,40359879225600
+
+2021-05-06 10:12:29,921 INFO send udp packet: 192.168.114.1,49696,40359879225600
+
+2021-05-06 10:12:39,923 INFO retry to push data, key: 192.168.114.1,49696,40359879225600
+
+2021-05-06 10:12:39,923 WARN max re-push times reached, retry times 2, key: 192.168.114.1,49696,40359879225600
+
