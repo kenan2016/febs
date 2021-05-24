@@ -1,0 +1,38 @@
+2019-12-25 08:58:03,741 INFO DEFAULT_GROUP@@FEBS-Auth is changed, add it to push queue.
+
+2019-12-25 08:58:05,232 INFO DEFAULT_GROUP@@FEBS-Server-Test is changed, add it to push queue.
+
+2019-12-25 08:58:05,564 INFO DEFAULT_GROUP@@FEBS-Gateway is changed, add it to push queue.
+
+2019-12-25 08:58:05,565 INFO DEFAULT_GROUP@@FEBS-Server-System is changed, add it to push queue.
+
+2019-12-25 08:58:05,565 INFO serviceName: DEFAULT_GROUP@@FEBS-Server-System changed, schedule push for: 192.168.2.122:64118, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.122,64118,169341159012100
+
+2019-12-25 08:58:05,566 INFO send udp packet: 192.168.2.122,64118,169341159012100
+
+2019-12-25 08:58:05,623 INFO received ack: {"type": "push-ack", "lastRefTime":"169341159012100", "data":""} from: 192.168.2.122:, cost: 64118 ms, unacked: 57, total push: 0
+
+2019-12-25 09:04:32,366 INFO DEFAULT_GROUP@@FEBS-Auth is changed, add it to push queue.
+
+2019-12-25 09:04:32,366 INFO serviceName: DEFAULT_GROUP@@FEBS-Auth changed, schedule push for: 192.168.2.122:64118, agent: Nacos-Java-Client:v1.1.4, key: 192.168.2.122,64118,169727959953000
+
+2019-12-25 09:04:32,366 INFO send udp packet: 192.168.2.122,64118,169727959953000
+
+2019-12-25 09:04:40,163 INFO DEFAULT_GROUP@@FEBS-Server-Test is changed, add it to push queue.
+
+2019-12-25 09:04:42,369 INFO retry to push data, key: 192.168.2.122,64118,169727959953000
+
+2019-12-25 09:04:42,369 INFO send udp packet: 192.168.2.122,64118,169727959953000
+
+2019-12-25 09:04:50,665 INFO DEFAULT_GROUP@@FEBS-Gateway is changed, add it to push queue.
+
+2019-12-25 09:04:52,370 INFO retry to push data, key: 192.168.2.122,64118,169727959953000
+
+2019-12-25 09:04:52,370 WARN max re-push times reached, retry times 2, key: 192.168.2.122,64118,169727959953000
+
+2019-12-25 09:04:55,667 INFO DEFAULT_GROUP@@FEBS-Server-System is changed, add it to push queue.
+
+2019-12-25 09:05:05,671 INFO DEFAULT_GROUP@@FEBS-Gateway is changed, add it to push queue.
+
+2019-12-25 09:05:10,672 INFO DEFAULT_GROUP@@FEBS-Server-System is changed, add it to push queue.
+

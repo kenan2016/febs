@@ -1,0 +1,48 @@
+2019-12-25 08:58:02,691 INFO DEFAULT_GROUP@@FEBS-Auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.122:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-25 08:58:02,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Auth, ips: 192.168.2.122:8101_true,
+
+2019-12-25 08:58:03,432 INFO DEFAULT_GROUP@@FEBS-Server-Test {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.122:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-25 08:58:03,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-Test, ips: 192.168.2.122:8202_true,
+
+2019-12-25 08:58:04,565 INFO {POS} {IP-DISABLED} valid: 192.168.2.122:8201@DEFAULT@DEFAULT_GROUP@@FEBS-Server-System, region: unknown, msg: client timeout after 15000, last beat: 1577201935939
+
+2019-12-25 08:58:04,565 INFO {POS} {IP-DISABLED} valid: 192.168.2.122:8301@DEFAULT@DEFAULT_GROUP@@FEBS-Gateway, region: unknown, msg: client timeout after 15000, last beat: 1577201935949
+
+2019-12-25 08:58:04,578 INFO DEFAULT_GROUP@@FEBS-Server-System {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.122:8201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-12-25 08:58:04,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-System, ips: 
+
+2019-12-25 08:58:04,580 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.122:8301:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-12-25 08:58:04,580 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 
+
+2019-12-25 08:58:04,868 INFO DEFAULT_GROUP@@FEBS-Server-System {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.122:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-25 08:58:04,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-System, ips: 192.168.2.122:8201_true,
+
+2019-12-25 08:58:04,876 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.122:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-25 08:58:04,876 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.2.122:8301_true,
+
+2019-12-25 09:04:31,365 INFO DEFAULT_GROUP@@FEBS-Auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.122:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-25 09:04:31,365 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Auth, ips: 
+
+2019-12-25 09:04:39,162 INFO DEFAULT_GROUP@@FEBS-Server-Test {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.122:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-12-25 09:04:39,162 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-Test, ips: 
+
+2019-12-25 09:04:49,664 INFO {POS} {IP-DISABLED} valid: 192.168.2.122:8301@DEFAULT@DEFAULT_GROUP@@FEBS-Gateway, region: unknown, msg: client timeout after 15000, last beat: 1577235870076
+
+2019-12-25 09:04:54,666 INFO {POS} {IP-DISABLED} valid: 192.168.2.122:8201@DEFAULT@DEFAULT_GROUP@@FEBS-Server-System, region: unknown, msg: client timeout after 15000, last beat: 1577235875071
+
+2019-12-25 09:05:04,670 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.122:8301:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-12-25 09:05:04,670 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 
+
+2019-12-25 09:05:09,670 INFO DEFAULT_GROUP@@FEBS-Server-System {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.122:8201:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-12-25 09:05:09,670 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-System, ips: 
+

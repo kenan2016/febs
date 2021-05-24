@@ -1,0 +1,72 @@
+2021-05-24 16:47:34,356 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:47:34,364 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.11.229:8301_true,
+
+2021-05-24 16:48:20,642 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:48:20,642 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 
+
+2021-05-24 16:49:16,852 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:49:16,852 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.11.229:8301_true,
+
+2021-05-24 16:55:08,512 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:55:08,516 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.11.229:8301_true,
+
+2021-05-24 16:55:39,501 INFO DEFAULT_GROUP@@FEBS-Auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:55:39,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Auth, ips: 192.168.11.229:8101_true,
+
+2021-05-24 16:56:58,637 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:56:58,637 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 
+
+2021-05-24 16:57:17,351 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 16:57:17,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.11.229:8301_true,
+
+2021-05-24 17:03:01,932 INFO DEFAULT_GROUP@@FEBS-Auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 17:03:01,942 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Auth, ips: 192.168.11.229:8101_true,
+
+2021-05-24 17:03:02,438 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 17:03:02,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.11.229:8301_true,
+
+2021-05-24 17:03:56,981 INFO DEFAULT_GROUP@@FEBS-Server-System {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 17:03:56,981 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-System, ips: 192.168.11.229:8201_true,
+
+2021-05-24 17:05:04,030 INFO DEFAULT_GROUP@@FEBS-Server-System {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.11.229:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 17:05:04,031 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-System, ips: 
+
+2021-05-24 17:05:11,970 INFO DEFAULT_GROUP@@FEBS-Server-Test {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 17:05:11,970 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-Test, ips: 192.168.11.229:8202_true,
+
+2021-05-24 17:06:19,152 INFO DEFAULT_GROUP@@FEBS-Server-Test {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.11.229:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 17:06:19,152 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Server-Test, ips: 
+
+2021-05-24 22:33:18,138 INFO {POS} {IP-DISABLED} valid: 192.168.11.229:8301@DEFAULT@DEFAULT_GROUP@@FEBS-Gateway, region: unknown, msg: client timeout after 15000, last beat: 1621850349984
+
+2021-05-24 22:33:18,138 INFO {POS} {IP-DISABLED} valid: 192.168.11.229:8101@DEFAULT@DEFAULT_GROUP@@FEBS-Auth, region: unknown, msg: client timeout after 15000, last beat: 1621850350029
+
+2021-05-24 22:33:18,667 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-24 22:33:18,668 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 
+
+2021-05-24 22:33:18,677 INFO DEFAULT_GROUP@@FEBS-Auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.11.229:8101:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-05-24 22:33:18,677 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Auth, ips: 
+
+2021-05-24 22:33:19,882 INFO DEFAULT_GROUP@@FEBS-Gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 22:33:19,882 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Gateway, ips: 192.168.11.229:8301_true,
+
+2021-05-24 22:33:19,925 INFO DEFAULT_GROUP@@FEBS-Auth {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.229:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-05-24 22:33:19,925 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@FEBS-Auth, ips: 192.168.11.229:8101_true,
+

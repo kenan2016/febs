@@ -1,0 +1,36 @@
+2019-12-24 09:28:58,088 INFO [dump-all-ok] febs-gateway.yaml+DEFAULT_GROUP, 1570760293000, length=2149, md5=161da681d1415dace6d7c974ba9e5005
+
+2019-12-24 09:28:58,092 INFO [dump-all-ok] febs-monitor-admin.yaml+DEFAULT_GROUP, 1568857189000, length=173, md5=2347087e64301f1d5e0e9a9410007def
+
+2019-12-24 09:28:58,096 INFO [dump-all-ok] febs-auth-dev.yaml+DEFAULT_GROUP, 1576118452000, length=2187, md5=d8d3bd648700e941dee86f0e3981604c
+
+2019-12-24 09:28:58,098 INFO [dump-all-ok] febs-auth-test.yaml+DEFAULT_GROUP, 1576118463000, length=2185, md5=3b8d1c75d66045d85bc81ee9062f50f5
+
+2019-12-24 09:28:58,101 INFO [dump-all-ok] febs-auth-prod.yaml+DEFAULT_GROUP, 1576118474000, length=2207, md5=a71111a90dee8362984d348a111ce477
+
+2019-12-24 09:28:58,104 INFO [dump-all-ok] febs-server-system-dev.yaml+DEFAULT_GROUP, 1576118488000, length=1880, md5=b0000ccc64019bce0b9da6325d9277f0
+
+2019-12-24 09:28:58,106 INFO [dump-all-ok] febs-server-system-prod.yaml+DEFAULT_GROUP, 1576118498000, length=1880, md5=b0000ccc64019bce0b9da6325d9277f0
+
+2019-12-24 09:28:58,108 INFO [dump-all-ok] febs-server-system-test.yaml+DEFAULT_GROUP, 1576118510000, length=1880, md5=b0000ccc64019bce0b9da6325d9277f0
+
+2019-12-24 09:28:58,109 INFO [dump-all-ok] febs-server-test.yaml+DEFAULT_GROUP, 1576118519000, length=1278, md5=30591e03f60719253dbf8b373c110334
+
+2019-12-24 21:39:21,083 INFO [dump-all-ok] febs-gateway.yaml+DEFAULT_GROUP, 1570760293000, length=2149, md5=161da681d1415dace6d7c974ba9e5005
+
+2019-12-24 21:39:21,085 INFO [dump-all-ok] febs-monitor-admin.yaml+DEFAULT_GROUP, 1568857189000, length=173, md5=2347087e64301f1d5e0e9a9410007def
+
+2019-12-24 21:39:21,087 INFO [dump-all-ok] febs-auth-dev.yaml+DEFAULT_GROUP, 1577153615000, length=2207, md5=d729405b6157daffaf68a9ae11a97f48
+
+2019-12-24 21:39:21,088 INFO [dump-all-ok] febs-auth-test.yaml+DEFAULT_GROUP, 1576118463000, length=2185, md5=3b8d1c75d66045d85bc81ee9062f50f5
+
+2019-12-24 21:39:21,089 INFO [dump-all-ok] febs-auth-prod.yaml+DEFAULT_GROUP, 1576118474000, length=2207, md5=a71111a90dee8362984d348a111ce477
+
+2019-12-24 21:39:21,091 INFO [dump-all-ok] febs-server-system-dev.yaml+DEFAULT_GROUP, 1577152023000, length=1878, md5=b65f67edc51ca08260d70c442af81bb3
+
+2019-12-24 21:39:21,092 INFO [dump-all-ok] febs-server-system-prod.yaml+DEFAULT_GROUP, 1576118498000, length=1880, md5=b0000ccc64019bce0b9da6325d9277f0
+
+2019-12-24 21:39:21,094 INFO [dump-all-ok] febs-server-system-test.yaml+DEFAULT_GROUP, 1576118510000, length=1880, md5=b0000ccc64019bce0b9da6325d9277f0
+
+2019-12-24 21:39:21,095 INFO [dump-all-ok] febs-server-test.yaml+DEFAULT_GROUP, 1576118519000, length=1278, md5=30591e03f60719253dbf8b373c110334
+

@@ -1,0 +1,18 @@
+2021-05-24 16:46:39,740 WARN [master-db] jdbc:mysql://localhost:3306/febs_nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2021-05-24 16:46:40,758 WARN useAddressServer:true
+
+2021-05-24 16:46:40,896 WARN isQuickStart:false
+
+2021-05-24 16:55:04,740 WARN [master-db] jdbc:mysql://localhost:3306/febs_nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2021-05-24 16:55:05,653 WARN useAddressServer:true
+
+2021-05-24 16:55:05,772 WARN isQuickStart:false
+
+2021-05-24 17:02:57,732 WARN [master-db] jdbc:mysql://localhost:3306/febs_nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2021-05-24 17:02:58,833 WARN useAddressServer:true
+
+2021-05-24 17:02:58,975 WARN isQuickStart:false
+

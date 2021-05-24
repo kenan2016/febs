@@ -1,0 +1,12 @@
+2019-12-24 09:28:56,531 WARN [master-db] jdbc:mysql://localhost:3306/febs_nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2019-12-24 09:28:57,744 WARN useAddressServer:true
+
+2019-12-24 09:28:57,933 WARN isQuickStart:false
+
+2019-12-24 21:39:20,320 WARN [master-db] jdbc:mysql://localhost:3306/febs_nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2019-12-24 21:39:20,891 WARN useAddressServer:true
+
+2019-12-24 21:39:20,986 WARN isQuickStart:false
+
